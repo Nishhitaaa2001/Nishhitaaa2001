@@ -1,24 +1,49 @@
-<h4 align="left">👋 Hello GitHub Folks:</h4>
-<h5 align="left">I'm Nishita Rajak</h5>
-<p> A dedicated Frontend Developer with a penchant for crafting engaging and user-centric web experiences. 
-Currently based in Bhopal, I specialize in building robust applications using the MERN (MongoDB, Express.js, React, Node.js) stack.</p>
+<h2 align="center">👋 Hello GitHub Community</h2>
+<h3 align="center">I’m Nishita Rajak</h3>
 
-<h5 align="left">🚀 What I Do:</h5>
-<ul>
-  <li>💻 Frontend Development wizardry with a focus on intuitive user interfaces.</li>
-  <li>🌐 MERN Stack enthusiast, creating seamless full-stack applications.</li>
-  <li>🎨 UI/UX design aficionado, turning ideas into visually stunning realities.</li>
-</ul>
-
-<h5 align="left">🌱 Current Focus:</h5>
-<p>I'm currently immersed in Mern , pushing the boundaries of what's possible with this . Whether it's exploring the latest React features or optimizing server-side performance, I'm always hungry for knowledge.
+<p align="center">
+I am a dedicated <strong>Data Analyst</strong> passionate about transforming complex data into actionable insights that drive smart business decisions.  
+Based in Bhopal, I specialize in advanced data cleaning, visualization, and statistical analysis to unlock the true value of data.  
+Alongside this, I possess a solid foundation in the <strong>MERN stack</strong>, enabling me to build dynamic, data-driven applications bridging the gap between development and analytics.
 </p>
 
-<h5 align="left">🔧 Tech Stack:</h5>
-<ul>
-  <li>🖥 Proficient in HTML, CSS, JavaScript , Bootstrap.</li>
-  <li>🛠 MERN Stack (MongoDB, Express.js, React, Node.js).</li>
+---
+
+<h3 align="left">🚀 What I Do:</h3>
+
+<ul align="left">
+  <li>📊 Comprehensive Data Analysis & Visualization using Python (Pandas, Matplotlib, Seaborn) and SQL</li>
+  <li>🤖 Statistical Modeling & Predictive Analytics to uncover trends and forecast outcomes</li>
+  <li>💻 Full-stack MERN Development to create responsive dashboards and interactive data applications</li>
+  <li>🎨 Crafting intuitive, actionable insights that inform strategic business initiatives</li>
 </ul>
+
+---
+
+<h3 align="left">🌱 Current Focus:</h3>
+
+<p align="left">
+Advancing my expertise in Machine Learning, Data Storytelling, and Scalable Analytics.  
+Continuously enhancing proficiency in SQL, Python, and modern visualization tools to deliver impactful and clear data narratives.
+</p>
+
+---
+
+<h3 align="left">🔧 Technical Skills:</h3>
+
+<ul align="left">
+  <li>🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)</li>
+  <li>🗄 SQL (MySQL, PostgreSQL)</li>
+  <li>📊 Data Visualization & BI Tools (Tableau, Power BI)</li>
+  <li>🛠 MERN Stack (MongoDB, Express.js, React, Node.js)</li>
+  <li>💻 Excel & Google Sheets for agile data manipulation</li>
+</ul>
+
+---
+
+<h3 align="left">💡 Profile Bio Suggestions for GitHub:</h3>
+
+
 
 
 <h5 align="left">📫 Connect with Me:</h5>
