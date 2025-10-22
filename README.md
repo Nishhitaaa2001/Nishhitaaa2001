@@ -50,5 +50,5 @@ Continuously enhancing proficiency in SQL, Python, and modern visualization tool
 <ul>
   <li>LinkedIn: https://www.linkedin.com/in/justnishhhh/</li>
   <li>Twitter: https://twitter.com/Nishitaa2</li>
-  <li>Portfolio: https://nishitarajak.github.io/portfolio_personal/</li>
+  <li>Portfolio:nishita-rajak-7xu7il0.gamma.site/</li>
 </ul>
