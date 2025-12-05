@@ -1,54 +1,18 @@
-<h2 align="center">👋 Hello GitHub Community</h2>
-<h3 align="center">I’m Nishita Rajak</h3>
+# 💫 About Me:
+👋 Hello GitHub Community<br>I’m Nishita Rajak<br>I am a dedicated Data Analyst passionate about transforming complex data into actionable insights that drive smart business decisions. Based in Bhopal, I specialize in advanced data cleaning, visualization, and statistical analysis to unlock the true value of data. Alongside this, I possess a solid foundation in the MERN stack, enabling me to build dynamic, data-driven applications bridging the gap between development and analytics.<br><br>🚀 What I Do:<br>📊 Comprehensive Data Analysis & Visualization using Python (Pandas, Matplotlib, Seaborn) and SQL<br>🤖 Statistical Modeling & Predictive Analytics to uncover trends and forecast outcomes<br>💻 Full-stack MERN Development to create responsive dashboards and interactive data applications<br>🎨 Crafting intuitive, actionable insights that inform strategic business initiatives<br>🌱 Current Focus:<br>Advancing my expertise in Machine Learning, Data Storytelling, and Scalable Analytics. Continuously enhancing proficiency in SQL, Python, and modern visualization tools to deliver impactful and clear data narratives.<br><br>🔧 Technical Skills:<br>🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)<br>🗄 SQL (MySQL, PostgreSQL)<br>📊 Data Visualization & BI Tools (Tableau, Power BI)<br>💻 Excel & Google Sheets for agile data manipulation
 
-<p align="center">
-I am a dedicated <strong>Data Analyst</strong> passionate about transforming complex data into actionable insights that drive smart business decisions.  
-Based in Bhopal, I specialize in advanced data cleaning, visualization, and statistical analysis to unlock the true value of data.  
-Alongside this, I possess a solid foundation in the <strong>MERN stack</strong>, enabling me to build dynamic, data-driven applications bridging the gap between development and analytics.
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/justnishhhh/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nishita Rajak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Nishitarajak2001@gmail.com) 
 
-<h3 align="left">🚀 What I Do:</h3>
-
-<ul align="left">
-  <li>📊 Comprehensive Data Analysis & Visualization using Python (Pandas, Matplotlib, Seaborn) and SQL</li>
-  <li>🤖 Statistical Modeling & Predictive Analytics to uncover trends and forecast outcomes</li>
-  <li>💻 Full-stack MERN Development to create responsive dashboards and interactive data applications</li>
-  <li>🎨 Crafting intuitive, actionable insights that inform strategic business initiatives</li>
-</ul>
+# 💻 Tech Stack:
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nishhitaaa2001&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nishhitaaa2001&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishhitaaa2001&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Nishhitaaa2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">🌱 Current Focus:</h3>
-
-<p align="left">
-Advancing my expertise in Machine Learning, Data Storytelling, and Scalable Analytics.  
-Continuously enhancing proficiency in SQL, Python, and modern visualization tools to deliver impactful and clear data narratives.
-</p>
-
----
-
-<h3 align="left">🔧 Technical Skills:</h3>
-
-<ul align="left">
-  <li>🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)</li>
-  <li>🗄 SQL (MySQL, PostgreSQL)</li>
-  <li>📊 Data Visualization & BI Tools (Tableau, Power BI)</li>
-  <li>🛠 MERN Stack (MongoDB, Express.js, React, Node.js)</li>
-  <li>💻 Excel & Google Sheets for agile data manipulation</li>
-</ul>
-
----
-
-<h3 align="left">💡 Profile Bio Suggestions for GitHub:</h3>
-
-
-
-
-<h5 align="left">📫 Connect with Me:</h5>
-<ul>
-  <li>LinkedIn: https://www.linkedin.com/in/justnishhhh/</li>
-  <li>Twitter: https://twitter.com/Nishitaa2</li>
-  <li>Portfolio: https://nishita-rajak-7xu7il0.gamma.site/ /</li>
-</ul>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
